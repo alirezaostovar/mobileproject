@@ -9,6 +9,8 @@
         <module>core</module>
         <module>cloud-plugin</module>
         <module>sampleapp</module>
+        <module>client</module>
+        <module>server</module>
     </modules>
     <packaging>pom</packaging>
     <name>parent</name>
